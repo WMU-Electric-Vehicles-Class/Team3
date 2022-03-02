@@ -25,10 +25,10 @@
 
 ### Thank you!
 
+### Changes made below were for the first homework.
+#### Team3-Supercalifragilisticexpialidocious
+#### This is for HW1.2 and it is Connor performing a commit
 
-# Team3-Supercalifragilisticexpialidocious
-## This is for HW1.2 and it is Connor performing a commit
+#### I am working on this on VS code right now.
 
-## I am working on this on VS code right now.
-
-## This is Sachin making changes for Homework 1
+#### This is Sachin making changes for Homework 1
