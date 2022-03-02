@@ -2,7 +2,7 @@
 # This is Team 3 - Supercalifragilisticexpialidocious for ME 5950/6950 Electric Vehicle Class.
 
 ## Members of the team:
-> ### Connot Seifert
+> ### Connor Seifert
 > ### Anna Smitchols
 > ### Sachin Sharma
 
