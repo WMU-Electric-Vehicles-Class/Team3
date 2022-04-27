@@ -6,12 +6,11 @@
 > ### Anna Smitchols
 > ### Sachin Sharma
 
-### This repository is in progress and the final goal is to have a custom high-fidelity electric vehicle model of an existing real world electric vehicle.
 
 ### The vehicle chosen for analysis was the 2022 Hyundai Kona Electric. 
 ![Hyundai Kona Image](https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2022-Hyundai-Kona-Electric-Highlander-SUV-blue-1001x565-1.jpg)
 
-### Please refer to the half way project report for Team 3 for detailed project information.
+### Please refer to the final project report for Team 3 for detailed project information.
 
 ### Battery, motor, power electronics, and drivetrain were modeled using information obtained from class lecture notes and other relevant sources. Input/output models constructed using analytical equations are solved in Python. Python code to analyze the input/output models are documented in this repository. Each folder contains a .ipynb file with python code and proper markdown to understand the approach used. 
 
@@ -22,6 +21,10 @@
 ### Python codes for every analysis done for the half way project presentation are updated in this repo and any additional analysis done for final project presentation will be pushed in this repo. 
 
 ### To run the codes under FASTSim folder, FASTSim needs to be installed in your computer. For more information, visit https://www.nrel.gov/transportation/fastsim
+
+### Developed backwards looking EV model and its comparison with FASTSim model is under the Full_Vehicle_Model folder.
+
+### FCA and LKA systems analysis is under FCA_LKA_System_Analysis folder.
 
 ### Thank you!
 
